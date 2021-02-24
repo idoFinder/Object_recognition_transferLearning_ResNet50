@@ -1,1 +1,2 @@
-# idoFinder-Object_recognition_using_transferLearning_with_ResNet50-
+# Object recognition using transfer-learning with ResNet50v2
+
