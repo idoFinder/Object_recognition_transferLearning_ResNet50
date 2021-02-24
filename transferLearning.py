@@ -52,6 +52,7 @@ def GetData(Params, saveToPkl):
     :param  Params: for the folder path
     :param  saveToPkl: serializing to pickle file (boolean)
     :return dataframe
+    
     '''
 
     folder_path = Params['Data']['path']
